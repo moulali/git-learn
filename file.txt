@@ -1,2 +1,3 @@
 practicing git a new way 
 Main is replace of master here
+done more modifications here.
