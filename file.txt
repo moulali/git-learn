@@ -1,2 +1,2 @@
-practicing git a new way
-Man
+practicing git a new way 
+Main is replace of master here
